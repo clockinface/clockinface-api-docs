@@ -68,8 +68,8 @@ device-specific implementations.
 
 Runnable examples and demos are maintained separately from this documentation.
 
-👉 **ClockInFace API Examples (GitHub Repository)**  
-(https://github.com/clockinface/clockinface-api-examples)
+👉 **ClockInFace API Examples (GitHub Repository)**
+[https://github.com/clockinface/clockinface-api-examples](https://github.com/clockinface/clockinface-api-examples)
 
 The examples repository includes an **interactive Google Colab notebook** that
 demonstrates:
@@ -98,10 +98,10 @@ server-side applications that implement business rules and attendance policies.
 ## Related Documentation
 
 - Official website and platform overview  
-  👉 (https://clockinface.com)
+  👉 [https://clockinface.com](https://clockinface.com)
 
 - Runnable API examples and demos  
-  👉 (https://github.com/clockinface/clockinface-api-examples)
+  👉 [https://github.com/clockinface/clockinface-api-examples](https://github.com/clockinface/clockinface-api-examples)
 
 ---
 
