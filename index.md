@@ -87,7 +87,7 @@ No local environment setup is required to run the demo.
 ## API Endpoint Overview
 
 **Base URL**
-`https://clockinface.com/backend/api/v1/`
+`https://backend.clockinface.com/api/v1/`
 
 
 The API follows standard REST conventions and is designed to be consumed from
